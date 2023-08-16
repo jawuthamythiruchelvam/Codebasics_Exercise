@@ -1,3 +1,4 @@
+#there is some logic mistakes
 class Fibonacci:
     def __init__(self,limit):
         self.previous=0
